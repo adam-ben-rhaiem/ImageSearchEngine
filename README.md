@@ -23,7 +23,7 @@ A powerful Content-Based Image Retrieval (CBIR) system that finds visually simil
 
 ```bash
 # Clone the repository
-git clone https://github.com/skanderyaakoubi/cbir_project.git
+git clone https://github.com/adam-ben-rhaiem/ImageSearchEngine.git
 cd cbir_project
 
 # Create and activate virtual environment
