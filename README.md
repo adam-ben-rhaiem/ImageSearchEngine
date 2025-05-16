@@ -1,10 +1,8 @@
 # 🔍 ImageSearchEngine - CBIR System
-
-![CBIR Demo](https://via.placeholder.com/800x400?text=Image+Search+Demo) [^1]
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-green)](https://fastapi.tiangolo.com)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.x-yellow)](https://elastic.co)
-[![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
+
 
 A powerful Content-Based Image Retrieval (CBIR) system that finds visually similar images using deep learning and Elasticsearch.
 
