@@ -24,34 +24,34 @@ The backend is built with FastAPI and provides robust API endpoints for:
 
 ### Image Indexing 📥
 
-Stores images and their visual features in Elasticsearch
+- Stores images and their visual features in Elasticsearch
 
-Processes images to extract distinctive visual characteristics
+- Processes images to extract distinctive visual characteristics
 
 ### Image Search 🔎
 
-Accepts query images and returns visually similar results
+- Accepts query images and returns visually similar results
 
-Leverages Elasticsearch for fast similarity searches
+- Leverages Elasticsearch for fast similarity searches
 
-Utilizes advanced computer vision techniques for feature extraction
+- Utilizes advanced computer vision techniques for feature extraction
 
 ### Frontend (Streamlit) 💻
 The user-friendly interface includes:
 
-### Image Upload 📤
+#### Image Upload 📤
 
-Simple drag-and-drop or file selection
+- Simple drag-and-drop or file selection
 
-Preview of uploaded images
+- Preview of uploaded images
 
-### Search Results 🖼️
+#### Search Results 🖼️
 
-Grid display of similar images
+- Grid display of similar images
 
-Visual similarity scores
+- Visual similarity scores
 
-Interactive browsing experience
+- Interactive browsing experience
 
 ## 🛠️ Installation
 
