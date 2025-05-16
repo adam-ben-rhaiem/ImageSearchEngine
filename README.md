@@ -13,25 +13,45 @@ A powerful Content-Based Image Retrieval (CBIR) system that finds visually simil
 - 📊 **Scalable architecture** with Elasticsearch backend
 - 🌈 **Interactive Streamlit UI** for easy exploration
 - 🔌 **REST API** for integration with other applications
-## 🏗️ Project Structure
-cbir_project/
-├── backend/               # FastAPI application
 
-│   ├── app.py            # Main API endpoints
 
-│   ├── feature_extractor # Image feature extraction
+## Architecture Overview 🏗️
 
-│   └── elastic/          # Elasticsearch operations
+This project is a powerful image search engine that combines the strengths of FastAPI for backend processing and Streamlit for an intuitive frontend experience. The system allows users to upload images and find visually similar images from an indexed collection.
 
-├── frontend/             # Streamlit UI
+### Backend (FastAPI) ⚙️
+The backend is built with FastAPI and provides robust API endpoints for:
 
-│   └── app.py            # User interface
+### Image Indexing 📥
 
-├── tests/                # Unit tests
+Stores images and their visual features in Elasticsearch
 
-├── requirements.txt      # Python dependencies
+Processes images to extract distinctive visual characteristics
 
-└── README.md            # You are here!
+### Image Search 🔎
+
+Accepts query images and returns visually similar results
+
+Leverages Elasticsearch for fast similarity searches
+
+Utilizes advanced computer vision techniques for feature extraction
+
+### Frontend (Streamlit) 💻
+The user-friendly interface includes:
+
+### Image Upload 📤
+
+Simple drag-and-drop or file selection
+
+Preview of uploaded images
+
+### Search Results 🖼️
+
+Grid display of similar images
+
+Visual similarity scores
+
+Interactive browsing experience
 
 ## 🛠️ Installation
 
