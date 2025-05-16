@@ -22,13 +22,13 @@ This project is a powerful image search engine that combines the strengths of Fa
 ### ⚙️ Backend (FastAPI)
 The backend is built with FastAPI and provides robust API endpoints for:
 
-### 📥Image Indexing 
+#### 📥Image Indexing 
 
 - Stores images and their visual features in Elasticsearch
 
 - Processes images to extract distinctive visual characteristics
 
-### 🔎Image Search
+#### 🔎Image Search
 
 - Accepts query images and returns visually similar results
 
