@@ -16,14 +16,23 @@ A powerful Content-Based Image Retrieval (CBIR) system that finds visually simil
 ## 🏗️ Project Structure
 cbir_project/
 ├── backend/               # FastAPI application
+
 │   ├── app.py            # Main API endpoints
+
 │   ├── feature_extractor # Image feature extraction
+
 │   └── elastic/          # Elasticsearch operations
+
 ├── frontend/             # Streamlit UI
+
 │   └── app.py            # User interface
+
 ├── tests/                # Unit tests
+
 ├── requirements.txt      # Python dependencies
+
 └── README.md            # You are here!
+
 ## 🛠️ Installation
 
 ### Prerequisites
