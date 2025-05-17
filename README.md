@@ -1,4 +1,4 @@
-# 🔍 ImageSearchEngine - CBIR System
+# 🔍 ImageSearchEngine-CBIR-System
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-green)](https://fastapi.tiangolo.com)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.x-yellow)](https://elastic.co)
