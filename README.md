@@ -63,7 +63,7 @@ The user-friendly interface includes:
 ```bash
 # Clone the repository
 git clone https://github.com/adam-ben-rhaiem/ImageSearchEngine.git
-cd cbir_project
+cd ImageSearchEngine
 
 # Create and activate virtual environment
 python -m venv venv
